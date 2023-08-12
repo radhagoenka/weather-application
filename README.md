@@ -2,12 +2,6 @@
 
 ![](weather.gif)
 
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
-
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
-
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
